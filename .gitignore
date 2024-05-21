@@ -1,0 +1,4 @@
+/node_modules
+/google-cloud-sdk
+google-cloud-cli-453.0.0-linux-x86_64.tar.gz
+package-lock.json
